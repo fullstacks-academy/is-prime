@@ -18,5 +18,7 @@ Salam, Mersi ke mikhay mosharekat koni. ghabl az in ke har kari koni lotfan in d
 ## Styleguide
 lotfan be airbnb styleguide rojoo koni
 khahesh mikonam k commit mesage hatoon ro be in soorat benvisit
+
 __type (scope): shortmessage__
+
 lotfan commit message shoma bishtar az 50 charater nashe
