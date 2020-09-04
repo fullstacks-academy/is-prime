@@ -1,0 +1,19 @@
+{
+  "name": "is-prime",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstacks-academy/is-prime.git"
+  },
+  "keywords": [],
+  "author": "frontendmonster <frontendmonster@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fullstacks-academy/is-prime/issues"
+  },
+  "homepage": "https://github.com/fullstacks-academy/is-prime#readme",
+  "main": "index.js",
+  "scripts": {
+  }
+}
