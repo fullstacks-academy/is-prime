@@ -15,5 +15,15 @@
   "homepage": "https://github.com/fullstacks-academy/is-prime#readme",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint ./src",
+    "lint:fix": "eslint ./src --fix",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@frontendmonster/eslint-config": "^4.0.4",
+    "eslint": "^7.8.1",
+    "jest": "^26.4.2",
+    "prettier": "^2.1.1"
   }
 }
